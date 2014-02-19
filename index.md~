@@ -3,9 +3,6 @@ layout: page
 title: Sabonia
 tagline: The Movie
 ---
-
-#Sabonia
-
 {% include JB/setup %}
 
 
