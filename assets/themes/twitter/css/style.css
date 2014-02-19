@@ -1,9 +1,23 @@
-html {
- }
+* {
+	margin: 0;
+}
+
+.navbar .brand {
+	color:#000000;
+	font-weight: bold;
+}
+
+footer {
+	height: 20px; /* .push must be the same height as .footer */
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	text-align:center;
+}
 
 body {
   color: #ffffff; 
-  background: url(../images/background.jpg) no-repeat center center fixed; 
+  background: url(../img/background.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;

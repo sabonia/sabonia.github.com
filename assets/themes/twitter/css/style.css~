@@ -1,12 +1,23 @@
-html {
-  background: url(../images/background.jpg) no-repeat center center fixed; 
+* {
+	margin: 0;
+}
+
+footer {
+	height: 20px; /* .push must be the same height as .footer */
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	text-align:center;
+}
+
+body {
+  color: #ffffff; 
+  background: url(../img/background.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: cover; }
-
-body {
-  color: #ffffff; }
+  background-size: cover;	
+}
 
 /* Custom container */
 .container-narrow {

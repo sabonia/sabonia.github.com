@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Sabonia
-tagline: The Movie
+title: ""
+tagline: ""
 ---
-
-#Sabonia
 
 {% include JB/setup %}
 
