@@ -13,10 +13,13 @@ a.active {
 
 footer {
 	height: 20px; /* .push must be the same height as .footer */
-	position: absolute;
+	/*position: absolute; */
 	bottom: 0;
 	width: 100%;
-	text-align:center;
+	text-align:center;	
+	border-top:1px solid #eeeeee;
+	/*padding-bottom:9px;*/
+	margin:20px 0 30px;
 }
 
 body {
