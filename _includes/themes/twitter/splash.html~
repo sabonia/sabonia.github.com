@@ -48,7 +48,11 @@
 
     <div class="container">
       <div class="content">
-        {{ content }}      
+        	<div class="row-fluid">
+  				<div class="span12">
+    				{{ content }}
+  				</div>
+			</div>    
       </div>      
     </div>
     

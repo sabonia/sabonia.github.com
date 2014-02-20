@@ -1,7 +1,5 @@
 ---
-layout: page
-title: ""
-tagline: ""
+layout: splash
 ---
 
 {% include JB/setup %}
