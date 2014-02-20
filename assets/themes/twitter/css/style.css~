@@ -2,6 +2,10 @@
 	margin: 0;
 }
 
+a.action {
+	color: #ffffff;
+}
+
 .navbar .brand {
 	color:#000000;
 	font-weight: bold;
@@ -30,6 +34,10 @@ body {
   -moz-opacity: 0.5;
   -webkit-opacity: 0.5;
   opacity:0.5;*/
+}
+
+.background {
+	background:#000000;
 }
 
 /* Custom container */
