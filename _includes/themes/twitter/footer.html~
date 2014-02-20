@@ -1,0 +1,8 @@
+ <!--<hr>-->
+ <div class="container">
+	 <div class="content">
+		 <footer>	   
+				<p>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}</p>
+		 </footer>
+	 </div>
+ </div>
