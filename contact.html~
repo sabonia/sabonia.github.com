@@ -30,7 +30,7 @@ group: navigation
     }
     .form-all{
         width:590px;
-        color:#ffffff !important;
+        color:Black !important;
         font-family:'Lucida Grande',' Lucida Sans Unicode',' Lucida Sans',' Verdana',' Tahoma',' sans-serif';
         font-size:14px;
     }

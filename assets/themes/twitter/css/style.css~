@@ -13,7 +13,7 @@ a.active {
 
 footer {
 	height: 20px; /* .push must be the same height as .footer */
-	position: absolute;
+	/*position: absolute; */
 	bottom: 0;
 	width: 100%;
 	text-align:center;	
@@ -26,12 +26,13 @@ body {
   color: #ffffff;
 }
 
-.background-image {
+#splash {
 	background: url(../img/background.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: cover;
+  background-size: cover;  
+  background-origin
   /*filter: alpha(opacity=50)
   filter: progid:DXImageTransform.Microsoft.Alpha(opacity=50)
   -moz-opacity: 0.5;

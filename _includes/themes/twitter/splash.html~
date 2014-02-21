@@ -2,13 +2,11 @@
 <html lang="en">
   {% include themes/twitter/head.html %}
 
-  <body class="background-image">
+  <body class="background">
 	{% include themes/twitter/navbar.html %}
-
+  <div id="splash">
    {% include themes/twitter/main.html %}
-    
-	<!--{% include themes/twitter/footer.html %}-->
-
+  </div>
    {% include JB/analytics %}
   </body>
 </html>

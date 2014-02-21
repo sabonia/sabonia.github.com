@@ -1,0 +1,12 @@
+---
+layout: page
+title : Trailer
+header : Trailer
+group: navigation
+---
+{% include JB/setup %}
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/ti7nVkrRQK4" frameborder="0" allowfullscreen></iframe>
+
+<!--{% assign posts_collate = site.posts %}
+{% include JB/posts_collate %}-->
